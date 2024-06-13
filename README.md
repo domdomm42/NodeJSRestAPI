@@ -1,4 +1,4 @@
-# NODEJS Rest API
+# NodeJS Rest API
 
 # Goal
 I wanted to see how REST APIs work under the hood using node.js without any frameworks(like express).
